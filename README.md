@@ -7,19 +7,12 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  
-  - - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
 <h2>📄 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/50860e03-d0c1-4265-9bf9-0f5d3ab4881e)
 - [CompTIA CYSA+](https://www.credly.com/earner/earned/badge/63ed4367-cbff-45d0-bcf0-40b5fd6cc789)
 - [CompTIA PenTest+](https://www.credly.com/org/comptia/badge/comptia-pentest-ce-certification)
+- [Certified in Cybersecurity (CC)](https://www.credly.com/earner/earned/badge/a43b412a-2fd8-4316-a0c8-2f0c4d7850f6)
 
 <h2> 🤳 Connect with me:</h2>
 
