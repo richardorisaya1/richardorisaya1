@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity/IAM Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/richardorisaya1/Home-Lb)
+  - [Home Lab + Active Directory Bulk User Creation](https://github.com/richardorisaya1/Home-Lb)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [SOC & SIEM Monitor](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  
