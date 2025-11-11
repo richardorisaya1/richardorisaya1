@@ -7,6 +7,8 @@
   - [Active Directory Bulk User Creation](https://github.com/richardorisaya1/Home-Lb)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  
+  - [SOC & SIEM Monitor](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
 <h2>📄 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/50860e03-d0c1-4265-9bf9-0f5d3ab4881e)
