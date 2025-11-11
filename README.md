@@ -6,7 +6,8 @@
 - <b>PowerShell</b>
   - [Home Lab + Active Directory Bulk User Creation](https://github.com/richardorisaya1/Home-Lb)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [SOC & SIEM Monitor (Creating a Honeypot)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [SOC & SIEM Monitor (Creating a Honeypot)](https://github.com/richardorisaya1/SOC-SIEM-Monitor)
+  - [Phyton Remote Keylogger](https://github.com/richardorisaya1/SOC-SIEM-Monitor)
  
 <h2>📄 Certifications:</h2>
 
